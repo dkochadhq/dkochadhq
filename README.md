@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on using analytics
-- 📫 How to reach me dkoch@adhq.com
+- 📫 How to reach me...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: haven't coded in 15 years!
 
